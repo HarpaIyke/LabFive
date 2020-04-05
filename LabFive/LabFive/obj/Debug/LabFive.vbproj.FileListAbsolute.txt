@@ -1,0 +1,12 @@
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\bin\Debug\LabFive.exe.config
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\bin\Debug\LabFive.exe
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\bin\Debug\LabFive.pdb
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\bin\Debug\LabFive.xml
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.vbprojAssemblyReference.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.frmTextEditor.resources
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.Resources.resources
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.vbproj.GenerateResource.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.vbproj.CoreCompileInputs.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.exe
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.xml
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 5\LabFive\LabFive\obj\Debug\LabFive.pdb

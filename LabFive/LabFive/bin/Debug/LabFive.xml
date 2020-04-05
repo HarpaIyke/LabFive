@@ -1,0 +1,102 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LabFive
+</name>
+</assembly>
+<members>
+<member name="T:LabFive.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LabFive.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LabFive.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuHelpAbout_Click(System.Object,System.EventArgs)">
+ <summary>
+ Show information about the creation of this program
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuFileExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Exit the application
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuFileNew_Click(System.Object,System.EventArgs)">
+ <summary>
+ Create a new file
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuFileOpen_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open an existing file
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuFileSaveAs_Click(System.Object,System.EventArgs)">
+ <summary>
+ Save a copy of the file
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuFileSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Save the current file
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuEditCopy_Click(System.Object,System.EventArgs)">
+ <summary>
+ Call the CopyText() sub procedure
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuEditCut_Click(System.Object,System.EventArgs)">
+ <summary>
+ Call the CutText() sub procedure
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.mnuEditPaste_Click(System.Object,System.EventArgs)">
+ <summary>
+ Call the PasteText() sub procedure
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.txtTextEditor_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Checks to see if the text has changed
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.SaveFile(System.String)">
+ <summary>
+ Save the file
+ </summary>
+ <param name="path">The save file path</param>
+</member>
+<member name="M:LabFive.frmTextEditor.CopyText">
+ <summary>
+ Copy the text that the user selected
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.CutText">
+ <summary>
+ Cut the text that the user selected
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.PasteText">
+ <summary>
+ Paste the copied text where the user chooses
+ </summary>
+</member>
+<member name="M:LabFive.frmTextEditor.ConfirmClose">
+ <summary>
+ Make sure the user is okay with closing the current file
+ </summary>
+</member>
+</members>
+</doc>
